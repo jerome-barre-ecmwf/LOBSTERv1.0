@@ -71,8 +71,6 @@ for area in list_region:
     fgd_lp=fgd_lp[out_lab==-1]
     obs_lp=obs_lp[out_lab==-1]
     mod_lp=mod_lp[out_lab==-1]
-    by=by[out_lab==-1]
-    bx=bx[out_lab==-1]
     cnt=cnt[out_lab==-1]
     lat=lat[out_lab==-1]
     lon=lon[out_lab==-1]
